@@ -1,0 +1,35 @@
+{
+  "files": {
+    "main.css": "/static/css/main.53b11e6c.chunk.css",
+    "main.js": "/static/js/main.407f1798.chunk.js",
+    "main.js.map": "/static/js/main.407f1798.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.478f9623.js",
+    "runtime-main.js.map": "/static/js/runtime-main.478f9623.js.map",
+    "static/js/2.b93c606e.chunk.js": "/static/js/2.b93c606e.chunk.js",
+    "static/js/2.b93c606e.chunk.js.map": "/static/js/2.b93c606e.chunk.js.map",
+    "static/js/3.cd88bad0.chunk.js": "/static/js/3.cd88bad0.chunk.js",
+    "static/js/3.cd88bad0.chunk.js.map": "/static/js/3.cd88bad0.chunk.js.map",
+    "index.html": "/index.html",
+    "static/css/main.53b11e6c.chunk.css.map": "/static/css/main.53b11e6c.chunk.css.map",
+    "static/js/2.b93c606e.chunk.js.LICENSE.txt": "/static/js/2.b93c606e.chunk.js.LICENSE.txt",
+    "static/media/Slacklogo.1b604b2d.png": "/static/media/Slacklogo.1b604b2d.png",
+    "static/media/awscourse.97b66a0b.jpg": "/static/media/awscourse.97b66a0b.jpg",
+    "static/media/awslogo.3c58a6c8.png": "/static/media/awslogo.3c58a6c8.png",
+    "static/media/banner.2f878673.png": "/static/media/banner.2f878673.png",
+    "static/media/certificate.12523cd0.jpg": "/static/media/certificate.12523cd0.jpg",
+    "static/media/digital lync logo.b741ebed.png": "/static/media/digital lync logo.b741ebed.png",
+    "static/media/flasklogo.c6c63c69.png": "/static/media/flasklogo.c6c63c69.png",
+    "static/media/gamedevelopment.1bbe1d96.jpg": "/static/media/gamedevelopment.1bbe1d96.jpg",
+    "static/media/linuxlogo.8225c0e4.png": "/static/media/linuxlogo.8225c0e4.png",
+    "static/media/powerbi.7bd7df6c.jpg": "/static/media/powerbi.7bd7df6c.jpg",
+    "static/media/python.6ddfbc15.jpg": "/static/media/python.6ddfbc15.jpg",
+    "static/media/pythonlogo.45f703c0.png": "/static/media/pythonlogo.45f703c0.png",
+    "static/media/trellologo.5b811451.png": "/static/media/trellologo.5b811451.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.478f9623.js",
+    "static/js/2.b93c606e.chunk.js",
+    "static/css/main.53b11e6c.chunk.css",
+    "static/js/main.407f1798.chunk.js"
+  ]
+}

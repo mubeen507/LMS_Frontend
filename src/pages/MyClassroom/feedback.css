@@ -1,0 +1,22 @@
+.App{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    min-height: 100vh;
+  }
+  input[ type="radio"]{
+    display:none;
+  }
+  .star{
+    cursor: pointer;
+    transition: color 200ms;
+  }
+  #textfield{
+        outline: 0;
+      border-width: 0 0 2px;
+      border-color:black
+    }
+    input:focus {
+      border-color:black
+    }
+  
